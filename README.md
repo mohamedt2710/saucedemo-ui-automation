@@ -1,4 +1,5 @@
 # Swag Labs UI Automation (Selenium + Java)
+[![CI](https://github.com/mohamedt2710/saucedemo-ui-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/mohamedt2710/saucedemo-ui-automation/actions/workflows/ci.yml)
 
 My first UI test automation project. It automates the same flows I covered by hand in my [manual testing portfolio](https://github.com/mohamedt2710/qa-manual-testing-portfolio), so I could practice turning manual test cases into code.
 
